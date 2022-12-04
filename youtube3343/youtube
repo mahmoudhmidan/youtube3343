@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=devic-width, intial-scale=1.0">
+        <link href="https://fonts.google leapis.com/css? family=material+icons|material tab">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+        <link rel="stylesheet" href="youtube.css">
+        <title>YouTube</title>    
+    </head>
+    <body>
+        <header>
+            <div class="left-section">
+                <i class="fa-solid fa-bars logo"></i>
+                <img src="Logo_of_YouTube_(2013-2015).svg.png">
+            </div>
+            <div class="mid_section">
+                <form action=""> 
+                    <input type="text" placeholder="search"/>
+                    <button><i class="fa-solid fa-magnifying-glass "></i> </button>
+                </form>
+                <i class="fa-solid fa-microphone mic"></i>
+            </div>
+            <div class="right-section">
+                <a href=""><i class="fa-solid fa-video"></i> </a>
+                <a href=""><i class="fa-sharp fa-solid fa-shapes"></i></a>
+                <a href=""><i class="fa-sharp fa-solid fa-bell"></i></a>
+                <a href=""><i class="fa-solid fa-user"></i></a>
+            </div>
+        </header>
+        <div class="content-area">
+            <aside>
+                <nav>
+                    <a href="" class="nav-link active">
+                        <i class="fa-solid fa-house"></i>
+                        <span id="active-span>">Home</span>
+                    </a>
+                    <a href="" class="nav-link">
+                        <i class="fa-brands fa-wpexplorer"></i>
+                        <span>explore</span>
+                    </a>
+                    <a href="" class="nav-link">
+                        <i class="fa-solid fa-video"></i>
+                        <span>subscriptions</span>
+                        </a>
+                        <a href="" class="nav-link">
+                            <i class="fa-solid fa-tv"></i>
+                            <span>originals</span>
+                            </a>
+                            <a href="" class="nav-link">
+                                <i class="fa-solid fa-headphones-simple"></i>
+                                <span>Youtube Music</span>
+                                </a>
+                                <hr>
+                                <a href="" class="nav-link">
+                                    <i class="fa-solid fa-book"></i>
+                                    <span>Library</span>
+                                </a>
+                                <a href="" class="nav-link">
+                                    <i class="fa-solid fa-clock-rotate-left"></i>
+                                    <span>History</span>
+                                \
+                                    <a href="" class="nav-link">
+                                        <i class="fa-solid fa-video"></i>
+                                        <span>your videos</span>
+                                        </a>
+                                        <a href="" class="nav-link">
+                                            <i class="fa-regular fa-clock"></i>
+                                            <span>Watch Later</span>
+                                            </a>
+                                            <a href="" class="nav-link">
+                                                <i class="fa-solid fa-download"></i>
+                                            <span>downloads</span>
+                                            </a>
+                                            <a href="" class="nav-link">
+                                                <i class="fa-regular fa-clock"></i>
+                                                <span>Watch Later</span>
+                                                </a>
+                                                <a href="" class="nav-link">
+                                                    <i class="fa-solid fa-thumbs-up"></i>
+                                                    <span>liked videos</span>
+                                                    </a>
+                                                    <hr>
+                                                    <p>subscriptions</p>
+                                                    <a href="" class="nav-link">
+                                                        <img class="channel-img" src="photo-1476820865390-c52aeebb9891.jfif">
+                                                        <span>Mahmoud Hmidan</span>
+                                                    </a>
+
+
+                </nav>
+            </aside>
+            <main>
+                <div class="videos-container">
+                    <div class="video">
+                        <div class="thumbnail">
+                            <img src="photo-1476820865390-c52aeebb9891.jfif"/>
+                        </div>
+                        <div class="video-details">
+                            <div class="creator-img">
+                                <img src="photo-1476820865390-c52aeebb9891.jfif">
+                            </div>
+                        </div>
+                        <div class="title">
+                            <a href="" class="video-title"> الفصل الاحب واللون الرائع 
+                                <a href="" class="video-creator">Mahmoud hmidan</a>
+                            </a>
+                            <span>10M . 3month ago</span>
+                        </div>
+                        <div class="video">
+                            <div class="thumbnail">
+                                <img src="photo-1543837173-6c26bc89937b.jfif"/>
+                            </div>
+                            <div class="video-details">
+                                <div class="creator-img">
+                                    <img src="photo-1543837173-6c26bc89937b.jfif">
+                                </div>
+                            </div>
+                            <div class="title">
+                                <a href="" class="video-title"> لفصل الاحب واللون الرائع 
+                                    <a href="" class="video-creator">Mahmoud hmidan</a>
+                                </a>
+                                <span>10M . 3month ago</span>
+                            </div>
+                            <div class="video">
+                                <div class="thumbnail">
+                                    <img src="images.jfif"/>
+                                </div>
+                                <div class="video-details">
+                                    <div class="creator-img">
+                                        <img src="pexels-blaque-x-863963.png">
+                                    </div>
+                                </div>
+                                <div class="title">
+                                    <a href="" class="video-title"> الفصل الاحب واللون الرائع 
+                                        <a href="" class="video-creator">Mahmoud hmidan</a>
+                                    </a>
+                                    <span>10M . 3month ago</span>
+                                </div>
+                                <div class="video">
+                                    <div class="thumbnail">
+                                        <img src="images.jfif"/>
+                                    </div>
+                                    <div class="video-details">
+                                        <div class="creator-img">
+                                            <img src="pexels-blaque-x-863963.png">
+                                        </div>
+                                    </div>
+                                    <div class="title">
+                                        <a href="" class="video-title"> الفصل الاحب واللون الرائع 
+                                            <a href="" class="video-creator">Mahmoud hmidan</a>
+                                        </a>
+                                        <span>10M . 3month ago</span>
+                                    </div>
+                                    <div class="video">
+                                        <div class="thumbnail">
+                                            <img src="photo-1543837173-6c26bc89937b.jfif"/>
+                                        </div>
+                                        <div class="video-details">
+                                            <div class="creator-img">
+                                                <img src="pexels-blaque-x-863963.png">
+                                            </div>
+                                        </div>
+                                        <div class="title">
+                                            <a href="" class="video-title"> الفصل الاحب واللون الرائع 
+                                                <a href="" class="video-creator">Mahmoud hmidan</a>
+                                            </a>
+                                            <span>10M . 3month ago</span>
+                                        </div>
+                                        <div class="video">
+                                            <div class="thumbnail">
+                                                <img src="photo-1543837173-6c26bc89937b.jfif"/>
+                                            </div>
+                                            <div class="video-details">
+                                                <div class="creator-img">
+                                                    <img src="pexels-blaque-x-863963.png">
+                                                </div>
+                                            </div>
+                                            <div class="title">
+                                                <a href="" class="video-title"> الفصل الاحب واللون الرائع 
+                                                    <a href="" class="video-creator">Mahmoud hmidan</a>
+                                                </a>
+                                                <span>10M . 3month ago</span>
+                                            </div>
+                                            <div class="video">
+                                                <div class="thumbnail">
+                                                    <img src="photo-1543837173-6c26bc89937b.jfif"/>
+                                                </div>
+                                                <div class="video-details">
+                                                    <div class="creator-img">
+                                                        <img src="pexels-blaque-x-863963.png">
+                                                    </div>
+                                                </div>
+                                                <div class="title">
+                                                    <a href="" class="video-title"> الفصل الاحب واللون الرائع 
+                                                        <a href="" class="video-creator">Mahmoud hmidan</a>
+                                                    </a>
+                                                    <span>10M . 3month ago</span>
+                                                </div>
+                                                <div class="video">
+                                                    <div class="thumbnail">
+                                                        <img src="photo-1543837173-6c26bc89937b.jfif"/>
+                                                    </div>
+                                                    <div class="video-details">
+                                                        <div class="creator-img">
+                                                            <img src="pexels-blaque-x-863963.png">
+                                                        </div>
+                                                    </div>
+                                                    <div class="title">
+                                                        <a href="" class="video-title">  الفصل الاحب واللون الرائع 
+                                                            <a href="" class="video-creator">Mahmoud hmidan</a>
+                                                        </a>
+                                                        <span>10M . 3month ago</span>
+                                                    </div>
+            </div>
+                </div>
+            </main>
+        </div>
+    </body>
+</html>
